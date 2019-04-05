@@ -1,0 +1,11 @@
+inherit python-wheel
+
+NAME="python-wcwidth"
+VERSION=0.1.7
+RELEASE=1
+CATEGORY="Python"
+SUMMARY="Wide-character width module for Python"
+DESCRIPTION="This Python library is mainly for those implementing a Terminal
+Emulator, or programs that carefully produce output to be interpreted by one."
+
+ARCH=noarch
